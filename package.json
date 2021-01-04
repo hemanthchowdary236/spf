@@ -1,0 +1,30 @@
+{
+  "name": "spf",
+  "version": "1.0.0",
+  "description": "An app to facilitate day to day operations for spf",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanthchowdary236/spf.git"
+  },
+  "keywords": [
+    "typescript",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Hemanth Chowdary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemanthchowdary236/spf/issues"
+  },
+  "homepage": "https://github.com/hemanthchowdary236/spf#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
